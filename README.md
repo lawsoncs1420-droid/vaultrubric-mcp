@@ -1,6 +1,6 @@
 # VaultRubric MCP server
 
-[![smithery badge](https://smithery.ai/badge/lawsoncs1420/vaultrubric)](https://smithery.ai/servers/lawsoncs1420/vaultrubric)
+[![LightNow capabilities](https://lightnow.ai/badge/com.vaultrubric/vaultrubric)](https://lightnow.ai/servers/com.vaultrubric/vaultrubric)
 
 <img src="https://vaultrubric.com/icon.png" alt="VaultRubric" width="64">
 
